@@ -4,11 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Names are the koti"><b>Enter Name of the student</b></label>
+    <label for="Names"><b>Enter Name of the student</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile Number"><b>Enter mobile Number</b></label>
+    <label for="mobile Numbers"><b>Enter mobile Number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
