@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Names"><b>Enter Name of the st student name is avalible</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Full Names" name="Name" id="Name" required>
     <br>
     
     <label for="mobile number "><b>Enter mobile Number</b></label>
