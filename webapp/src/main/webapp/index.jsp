@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Names"><b>Enter Name of the st student name is avalible</b></label>
+    <label for="Names"><b>Enter Name of the st student name</b></label>
     <input type="text" placeholder="Enter Full Names" name="Name" id="Name" required>
     <br>
     
