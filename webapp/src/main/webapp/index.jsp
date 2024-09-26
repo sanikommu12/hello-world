@@ -4,11 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Names"><b>Enter Name of the st student name</b></label>
+    <label for="Names"><b>Enter Name of the st student names</b></label>
     <input type="text" placeholder="Enter Full Names" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile number "><b>Enter mobile Number</b></label>
+    <label for="mobile number "><b>Enter mobile Numbers</b></label>
     <input type="text of the name" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
